@@ -1,0 +1,540 @@
+,brand,name,concentration,department,scents,item_rating,seller,seller_rating,price_per_ml,discount_per_ml,new_price_per_ml,log_ml
+0,paco rabanne,1 Million Lucky,EDT,Men,Woody,5.0,noon,4.2,3.95,1.5045,2.4455,4.605170185988092
+1,roberto cavalli,Paradiso Assoluto,EDP,Women,Floral,4.8,noon,4.2,8.3,6.141,2.1590000000000003,3.912023005428146
+2,guess,Seductive Blue,EDT,Men,Spicy,3.0,noon,4.2,2.9,1.868,1.032,4.605170185988092
+3,roberto cavalli,Uomo,EDP,Women,Arabian,4.8,noon,4.2,5.2,3.301,1.899,3.912023005428146
+4,roberto cavalli,cavalli,EDP,Women,Arabian,4.8,noon,4.2,5.2,3.301,1.899,3.912023005428146
+5,hugo boss,The Scent,EDP,Women,Oriental,4.0,seller_other,0.43,4.4,0.0,4.4,3.912023005428146
+6,dorall,Gold Secret,EDT,Men,Fruity,2.9,b.a.g,3.7,0.43,0.3065,0.1235,4.605170185988092
+7,gucci,Bamboo,EDP,Women,Floral,4.8,al-najm,3.7,7.666666666666667,5.1466666666666665,2.52,4.31748811353631
+8,yves saint laurent,M7 Oud Absolu,EDT,Men,Arabian,4.5,al-najm,3.7,6.7,3.2875,3.4125,4.382026634673881
+9,calvin klein,IN 2 U MEN,EDT,Men,Citrus,3.7,amlaq,3.9,1.52,0.67,0.85,4.605170185988092
+10,rasasi,Royale Blue,EDP,Men,Fruity,4.5,seller_other,3.9,1.2933333333333332,0.6893333333333334,0.604,4.31748811353631
+11,yves saint laurent,L'Homme,EDT,Men,Woody,3.0,noon,4.2,5.36,2.622,2.738,4.605170185988092
+12,dorall,24 Pure,EDT,Men,Fresh,4.9,b.a.g,3.7,0.22,0.1215,0.09849999999999999,4.605170185988092
+13,rasasi,Romance,EDP,Women,Floral,4.5,b.a.g,3.7,1.3333333333333333,0.55,0.7833333333333333,3.8066624897703196
+14,gucci,Bloom Aqua Di Fiori,EDT,Women,Fruity,4.7,noon,4.2,5.15,2.032,3.1180000000000003,4.605170185988092
+15,yves saint laurent,Body Kouros,EDT,Men,Woody,5.0,noon,4.2,5.1,3.0639999999999996,2.036,4.605170185988092
+16,dupont,S.T. Dupont,EDT,Men,Spicy,5.0,noon,4.2,1.2,0.4065000000000001,0.7935,4.605170185988092
+17,dolce & gabbana,The Only One,EDP,Women,Floral,5.0,seller_other,3.5,5.96,4.087,1.8730000000000002,4.605170185988092
+18,rasasi,Al Wisam Day,EDP,Men,Oriental,4.3,hadayiq baris,3.8,1.77,1.01,0.76,4.605170185988092
+19,dior,Addict,EDP,Women,Floral,4.5,seller_other,3.5,7.15,3.812,3.338,4.605170185988092
+20,dupont,Passenger,EDT,Men,Spicy,5.0,seller_other,4.4,1.82,0.731,1.089,4.605170185988092
+21,burberry,Brit Rhythm Intense,EDT,Men,Spicy,4.6,noon,4.2,4.111111111111111,2.5927777777777776,1.5183333333333333,4.499809670330265
+22,calvin klein,CK Be,EDT,Men,Floral,5.0,noon,4.2,1.235,0.6934999999999999,0.5415,5.298317366548036
+23,gucci,Guilty,EDT,Women,Floral,5.0,noon,4.2,6.72,3.854666666666667,2.8653333333333335,4.31748811353631
+24,versace,Dylan Blue,EDT,Men,Citrus,4.4,seller_other,4.2,17.0,12.9,4.1,1.6094379124341003
+25,yves saint laurent,La Nuit De L'Homme L'Intense,EDP,Men,Vanilla,5.0,seller_other,4.1,5.83,3.79,2.04,4.605170185988092
+26,armani,Stronger With You,EDT,Men,Vanilla,4.5,hadayiq baris,3.8,4.15,2.45,1.7,4.605170185988092
+27,versace,Dylan Blue,EDT,Men,Fresh,4.6,noon,4.2,4.25,2.0715,2.1785,4.605170185988092
+28,paco rabanne,Invictus,EDT,Men,Citrus,4.8,seller_other,3.8,3.95,1.85,2.1,4.605170185988092
+29,roberto cavalli,Nero Assoluto,EDP,Women,Arabian,5.0,noon,4.2,3.52,1.7926666666666664,1.7273333333333334,4.31748811353631
+30,dorall,Scholar,EDT,Men,Floral,5.0,b.a.g,3.7,0.19,0.0955,0.09449999999999999,4.605170185988092
+31,calvin klein,Eternity,EDT,Men,Floral,4.0,hadayiq baris,3.8,1.31,0.31,1.0,4.605170185988092
+32,paco rabanne,Lady Million,EDP,Women,Floral,4.7,seller_other,3.9,6.6875,4.0625,2.625,4.382026634673881
+33,guerlain,Idylle,EDP,Women,Floral,4.3,seller_other,3.9,4.3,1.74,2.56,4.605170185988092
+34,yves saint laurent,Libre,EDP,Women,Floral,4.9,seller_other,4.2,7.277777777777778,2.7222222222222223,4.555555555555555,4.499809670330265
+35,burberry,Mr. Burberry,EDP,Men,Woody,4.5,noon,4.2,5.15,3.3505000000000003,1.7994999999999999,4.605170185988092
+36,gucci,Guilty Absolute,EDP,Women,Spicy,4.2,star.perfume,3.9,6.133333333333334,2.441111111111111,3.6922222222222225,4.499809670330265
+37,burberry,Mr. Burberry,EDP,Men,Woody,5.0,star.perfume,3.9,2.95,0.95,2.0,4.605170185988092
+38,versace,Dylan Blue,EDT,Men,Citrus,4.4,seller_other,3.5,17.0,12.9,4.1,1.6094379124341003
+39,armani,Stronger With You,EDT,Men,Floral,4.5,seller_other,3.8,4.15,2.3915,1.7585,4.605170185988092
+40,hugo boss,Dark Blue,EDT,Men,Citrus,4.5,seller_other,3.6,2.12,0.4,1.72,4.31748811353631
+41,versace,Dylan Blue,EDT,Men,Fresh,4.6,noon,4.2,4.25,2.0715,2.1785,4.605170185988092
+42,dorall,Molto Carina,EDT,Women,Woody,4.0,b.a.g,3.7,0.27,0.1845,0.0855,4.605170185988092
+43,armani,Stronger With You Intensely,EDP,Men,Aromatic,4.8,seller_other,3.9,4.57,1.21,3.36,4.605170185988092
+44,paco rabanne,1 Million,EDT,Men,Woody,3.8,al-najm,3.7,3.95,2.22,1.73,4.605170185988092
+45,carolina herrera,Good Girl,EDP,Women,Arabian,4.8,hadayiq baris,3.8,7.0625,4.398125,2.664375,4.382026634673881
+46,burberry,Mr.Burberry,EDP,Men,Woody,4.6,seller_other,3.9,5.15,3.1510000000000002,1.999,4.605170185988092
+47,guerlain,Ideal,EDP,Men,Fruity,4.8,seller_other,4.8,5.6,3.37,2.23,4.605170185988092
+48,armani,Acqua Di Gio,EDT,Men,Citrus,3.7,seller_other,4.12,3.3,0.9755000000000001,2.3245,5.298317366548036
+49,roberto cavalli,Uomo,EDT,Men,Floral,5.0,noon,4.2,3.49,2.23,1.26,4.605170185988092
+50,montblanc,Emblem Absolu,EDT,Men,Spicy,4.7,seller_other,3.9,3.95,2.79,1.16,4.605170185988092
+51,lacoste,Eau de Lacoste L. 12.12 Noir,EDT,Men,Spicy,4.8,al-najm,3.7,3.3,2.45,0.85,4.605170185988092
+52,calvin klein,CKIN2U,EDT,Men,Citrus,5.0,amlaq,3.9,1.48,0.6509999999999999,0.8290000000000001,4.605170185988092
+53,roberto cavalli,Florence,EDP,Women,Floral,4.6,amlaq,3.9,3.066666666666667,0.8426666666666666,2.224,4.31748811353631
+54,paco rabanne,Invictus,EDT,Men,Citrus,4.8,seller_other,3.8,3.95,1.85,2.1,4.605170185988092
+55,dorall,Nashwa,EDT,Women,Woody,5.0,b.a.g,3.7,0.43,0.28800000000000003,0.142,4.605170185988092
+56,calvin klein,Euphoria,EDT,Men,Woody,4.7,star.perfume,4.2,2.89,1.9445,0.9455,4.605170185988092
+57,hugo boss,XX,EDT,Women,Fruity,4.5,star.perfume,3.9,2.95,1.3635,1.5865,4.605170185988092
+58,dior,Sauvage,EDT,Men,Fresh,3.8,seller_other,3.9,11.76,9.3515,2.4085,4.605170185988092
+59,dupont,Passenger,EDT,Men,Woody,4.5,seller_other,4.12,0.95,0.0,0.95,4.605170185988092
+60,calvin klein,Euphoria,EDT,Men,Woody,5.0,noon,4.2,2.2,1.2805000000000002,0.9195,4.605170185988092
+61,paco rabanne,Pour Homme,EDT,Men,Woody,4.5,noon,4.2,2.26,0.8994999999999999,1.3605,4.605170185988092
+62,montblanc,Starwalker,EDT,Men,Woody,5.0,noon,4.2,3.2,1.526,1.674,4.31748811353631
+63,dorall,Classic Black,EDT,Men,Fresh,4.0,seller_other,3.9,0.09,0.001999999999999993,0.08800000000000001,4.605170185988092
+64,dupont,Essence Pure,EDT,Women,Citrus,4.4,seller_other,4.1,2.15,1.304,0.846,4.605170185988092
+65,dupont,Passenger Spray,EDP,Women,Fruity,5.0,amlaq,3.9,2.2,0.953,1.247,4.605170185988092
+66,guerlain,Idylle,EDP,Women,Floral,5.0,seller_other,3.8,7.25,4.6530000000000005,2.597,4.605170185988092
+67,paco rabanne,Olympêa,EDP,Women,Floral,4.5,seller_other,3.8,5.6875,3.8125,1.875,4.382026634673881
+68,cartier,Pasha de Cartier,EDT,Men,Aromatic,4.3,noon,4.2,2.9,1.0475,1.8525,4.605170185988092
+69,paco rabanne,Olympea,EDP,Women,Floral,4.0,seller_other,4.2,5.725,4.05,1.675,4.382026634673881
+70,yves saint laurent,Black Opium Nuit Blanche,EDP,Women,Spicy,4.5,al-najm,3.7,6.888888888888889,3.923333333333334,2.9655555555555555,4.499809670330265
+71,lacoste,Eau de Lacoste L. 12.12 Noir,EDT,Men,Spicy,4.8,al-najm,3.7,3.3,2.45,0.85,4.605170185988092
+72,calvin klein,Euphoria Intense,EDT,Men,Spicy,4.2,al-najm,3.7,4.4,3.41,0.99,4.605170185988092
+73,paco rabanne,Paco Rabanne,EDT,Men,Woody,4.4,amlaq,3.9,2.5,1.163,1.337,4.605170185988092
+74,bvlgari,Petits Et Mamans,EDT,Women,Floral,4.8,seller_other,4.2,3.27,1.2925,1.9775,4.605170185988092
+75,versace,Crystal Noir,EDT,Women,Arabian,3.9,noon,4.2,6.84,3.1710000000000003,3.6689999999999996,3.912023005428146
+76,calvin klein,Intense Euphoria,EDT,Men,Spicy,4.4,noon,4.2,2.9,1.8005000000000002,1.0995,4.605170185988092
+77,paco rabanne,One Million Lucky,EDT,Men,Woody,4.7,noon,4.2,4.35,1.7785000000000002,2.5715,4.605170185988092
+78,armani,Because It's You,EDP,Women,Floral,4.9,al-najm,3.7,4.83,3.283,1.547,4.605170185988092
+79,roberto cavalli,Women,EDP,Women,Arabian,5.0,seller_other,3.8,5.733333333333333,4.36,1.3733333333333333,4.31748811353631
+80,lalique,Lalique,EDP,Women,Woody,4.4,seller_other,3.9,5.41,2.92,2.49,4.605170185988092
+81,paco rabanne,One Million,EDT,Men,Woody,5.0,noon,4.2,2.13,0.69025,1.4397499999999999,5.298317366548036
+82,calvin klein,Euphoria,EDT,Men,Woody,4.7,star.perfume,3.9,2.89,1.9445,0.9455,4.605170185988092
+83,guess,Seductive Homme,EDT,Men,Spicy,4.5,star.perfume,3.9,1.34,0.4225,0.9175,4.605170185988092
+84,givenchy,Pour Homme,EDT,Men,Spicy,4.4,al-najm,3.7,2.19,1.02,1.17,4.605170185988092
+85,rasasi,Blue,EDT,Men,Spicy,5.0,hadayiq baris,3.8,0.36950000000000005,0.0,0.36950000000000005,4.605170185988092
+86,armani,Eau Pour Homme Reno 2013,EDT,Men,Citrus,4.7,seller_other,3.8,7.22,3.5,3.72,3.912023005428146
+87,lacoste,Touch Of Pink,EDT,Women,Floral,4.6,seller_other,4.4,4.76,2.86,1.9,3.912023005428146
+88,guess,Gold,EDP,Women,Floral,4.9,seller_other,4.2,4.546666666666667,2.96,1.5866666666666667,4.31748811353631
+89,bvlgari,Goldea The Roman Night,EDP,Women,Floral,4.7,noon,4.2,7.066666666666666,4.01,3.0566666666666666,4.31748811353631
+90,lacoste,Lacoste,EDT,Men,Citrus,4.6,noon,4.2,3.68,2.53,1.15,4.605170185988092
+91,guerlain,Samsara,EDP,Women,Arabian,4.7,noon,4.2,4.0,1.7855,2.2144999999999997,4.605170185988092
+92,hugo boss,The Scent,EDP,Women,Fruity,4.5,noon,4.2,5.35,3.8,1.55,4.605170185988092
+93,paco rabanne,Million,EDP,Women,Fresh,5.0,seller_other,4.3,5.9,2.57,3.33,3.912023005428146
+94,calvin klein,Intense Euphoria,EDT,Men,Spicy,4.4,noon,4.2,2.9,1.8005000000000002,1.0995,4.605170185988092
+95,montblanc,Legend,EDT,Men,Spicy,4.5,noon,4.2,2.225,1.15225,1.07275,5.298317366548036
+96,calvin klein,Obsession,EDT,Men,Spicy,3.0,noon,4.2,1.848,0.888,0.96,4.8283137373023015
+97,dolce & gabbana,The One,EDP,Women,Fruity,5.0,seller_other,3.9,1.3333333333333333,0.0,1.3333333333333333,4.31748811353631
+98,dolce & gabbana,L' Imperatrice 3,EDT,Women,Fruity,4.7,amlaq,3.9,3.7,2.123,1.577,4.605170185988092
+99,burberry,Brit Splash,EDT,Men,Fresh,4.6,seller_other,3.9,2.78,0.84,1.94,4.605170185988092
+100,guess,Marciano,EDP,Women,Citrus,4.4,star.perfume,3.9,1.11,0.277,0.833,4.605170185988092
+101,mancera,Coco Vanille,EDP,Women,Vanilla,5.0,amlaq,3.9,3.716666666666667,1.3416666666666666,2.375,4.787491742782046
+102,burberry,Weekend,EDP,Women,Oriental,4.6,amlaq,3.9,1.97,0.37,1.6,4.605170185988092
+103,givenchy,Gentlemen Only,EDT,Men,Woody,4.0,seller_other,3.9,6.27,3.67,2.6,4.605170185988092
+104,roberto cavalli,Serpentine,EDP,Women,Arabian,4.4,noon,4.2,2.86,1.2315,1.6284999999999998,4.605170185988092
+105,bvlgari,Man in Black,EDP,Men,Woody,4.7,star.perfume,3.9,4.83,2.8205,2.0095,4.605170185988092
+106,montblanc,Lady Emblem,EDT,Men,Floral,5.0,seller_other,3.8,4.25,0.0,4.25,0.6931471805599453
+107,lacoste,Touch Of Pink,EDT,Women,Floral,5.0,seller_other,3.7,2.7666666666666666,1.7666666666666666,1.0,4.499809670330265
+108,dior,Addict,EDP,Women,Floral,5.0,amlaq,3.9,7.15,3.812,3.338,4.605170185988092
+109,burberry,My Burberry Bl,EDT,Women,Floral,5.0,amlaq,3.9,7.766666666666667,4.9238888888888885,2.8427777777777776,4.499809670330265
+110,lacoste,Lacoste,EDP,Women,Floral,4.6,noon,4.2,6.2,4.221,1.979,3.912023005428146
+111,lacoste,Lacoste,EDT,Men,Citrus,4.6,noon,4.2,3.68,2.53,1.15,4.605170185988092
+112,burberry,My Burberry Blush,EDP,Women,Arabian,4.5,noon,4.2,7.766666666666667,5.545555555555556,2.221111111111111,4.499809670330265
+113,gucci,Oud,EDP,Women,Spicy,4.2,amlaq,3.9,9.2,4.133333333333334,5.066666666666666,4.31748811353631
+114,rasasi,Blue,EDT,Men,Spicy,4.3,seller_other,4.2,0.53,0.18,0.35,4.605170185988092
+115,gucci,Guilty Absolute,EDP,Men,Woody,4.3,noon,4.2,5.722222222222222,2.3905555555555553,3.331666666666667,4.499809670330265
+116,calvin klein,Obsession,EDT,Men,Spicy,3.0,noon,4.2,1.848,0.888,0.96,4.8283137373023015
+117,guess,Guess Pink,EDP,Women,Fruity,5.0,seller_other,4.1,1.4,0.16399999999999995,1.236,4.31748811353631
+118,calvin klein,One Shock,EDT,Men,Spicy,5.0,amlaq,3.9,1.915,1.3915,0.5235,5.298317366548036
+119,dolce & gabbana,The Only One 2,EDP,Women,Floral,4.3,hadayiq baris,3.8,6.14,4.761,1.379,4.605170185988092
+120,cartier,Declaration,EDP,Men,Fruity,5.0,seller_other,3.6,3.9,1.5,2.4,4.605170185988092
+121,calvin klein,One Shock,EDT,Men,Spicy,5.0,seller_other,3.9,0.88,0.35,0.53,5.298317366548036
+122,burberry,Brit Rhythm Intense,EDT,Men,Spicy,4.6,noon,4.2,4.111111111111111,2.5927777777777776,1.5183333333333333,4.499809670330265
+123,lacoste,Blanc Pour Homme,EDT,Men,Woody,5.0,seller_other,3.9,3.56,2.61,0.95,4.605170185988092
+124,givenchy,Dahlia Divin Nude,EDP,Women,Fresh,4.5,seller_other,3.6,7.32,3.32,4.0,4.31748811353631
+125,dolce & gabbana,The One,EDT,Men,Spicy,4.7,hadayiq baris,3.8,2.99,1.09,1.9,4.605170185988092
+126,carolina herrera,Ch Men Sports,EDT,Men,Woody,4.3,seller_other,4.2,5.7,3.4,2.3,3.912023005428146
+127,cartier,Pasha Edition Noir,EDT,Men,Oriental,4.6,amlaq,3.9,4.78,2.7944999999999998,1.9855,4.605170185988092
+128,givenchy,Blue Label,EDT,Men,Spicy,4.8,hadayiq baris,3.8,3.8,2.3615,1.4385,4.605170185988092
+129,dior,Joy,EDP,Women,Woody,4.0,seller_other,3.6,5.555555555555555,1.5555555555555556,4.0,4.499809670330265
+130,lalique,Encre Noire,EDT,Men,Woody,4.5,seller_other,3.6,1.4,0.04,1.36,4.605170185988092
+131,paco rabanne,Black XS,EDT,Men,Woody,4.3,seller_other,3.9,4.29,1.19,3.1,4.605170185988092
+132,rasasi,Relation,EDP,Women,Fresh,5.0,seller_other,4.3,2.52,1.42,1.1,3.912023005428146
+133,dorall,Eventful,EDT,Women,Woody,4.5,b.a.g,3.7,0.29,0.207,0.083,4.605170185988092
+134,yves saint laurent,Body Kouros,EDT,Men,Woody,5.0,star.perfume,3.9,5.1,2.8064999999999998,2.2935,4.605170185988092
+135,versace,L'Homme,EDT,Men,Citrus,4.2,amlaq,3.9,1.85,0.4,1.45,4.605170185988092
+136,burberry,My Burberry Bl,EDT,Women,Floral,5.0,amlaq,3.9,7.766666666666667,4.9238888888888885,2.8427777777777776,4.499809670330265
+137,montblanc,Explorer,EDP,Men,Woody,4.8,seller_other,3.8,6.0,1.25,4.75,0.6931471805599453
+138,calvin klein,Euphoria,EDP,Men,Woody,4.8,seller_other,3.6,2.68,1.4075,1.2725,4.605170185988092
+139,yves saint laurent,Cinema,EDP,Women,Floral,2.0,seller_other,3.9,3.8666666666666667,1.7277777777777779,2.138888888888889,4.499809670330265
+140,guess,Marciano,EDP,Women,Floral,5.0,seller_other,4.12,1.0895000000000001,0.0,1.0895000000000001,4.605170185988092
+141,hugo boss,Hugo Boss,EDT,Men,Fresh,4.5,seller_other,4.2,1.712,0.952,0.76,4.8283137373023015
+142,hugo boss,Hugo,EDT,Men,Aromatic,4.2,seller_other,3.5,3.16,2.24,0.92,4.8283137373023015
+143,calvin klein,One Shock,EDT,Men,Spicy,4.7,amlaq,3.9,0.885,0.375,0.51,5.298317366548036
+144,chanel,Allure Sensuelle,EDP,Women,Arabian,5.0,hadayiq baris,3.8,6.81,2.0039999999999996,4.806,4.605170185988092
+145,armani,Eau De Cedre,EDT,Men,Woody,4.7,seller_other,3.8,12.04,7.34,4.7,4.605170185988092
+146,mancera,Red Tobacco,EDP,Men,Woody,4.7,seller_other,4.2,4.916666666666667,2.0833333333333335,2.8333333333333335,4.787491742782046
+147,hugo boss,Deep Red,EDP,Women,Oriental,3.0,noon,4.2,4.377777777777778,2.38,1.9977777777777779,4.499809670330265
+148,calvin klein,Escape,EDP,Women,Oriental,5.0,noon,4.2,1.84,0.8905,0.9495,4.605170185988092
+149,dorall,Dionysus,EDT,Men,Floral,3.0,b.a.g,3.7,0.39,0.284,0.106,4.605170185988092
+150,versace,Oud Noir,EDP,Men,Woody,4.5,seller_other,4.2,5.0,2.4,2.6,4.605170185988092
+151,roberto cavalli,cavalli,EDP,Women,Arabian,5.0,hadayiq baris,3.8,1.4666666666666666,0.0,1.4666666666666666,4.31748811353631
+152,carolina herrera,212 VIP,EDT,Men,Vanilla,4.4,seller_other,3.8,2.83,1.5365,1.2934999999999999,5.298317366548036
+153,carolina herrera,Prive,EDT,Men,Aromatic,4.3,seller_other,3.8,4.25,2.85,1.4,4.605170185988092
+154,guerlain,Habit Rouge,EDP,Men,Woody,4.5,star.perfume,3.5,4.35,2.1655,2.1845,4.605170185988092
+155,guerlain,Mon Florale,EDP,Women,Floral,4.8,seller_other,3.9,6.35,3.16,3.19,4.605170185988092
+156,gucci,Guilty Intense,EDT,Men,Floral,4.4,seller_other,3.9,3.6666666666666665,1.1777777777777778,2.488888888888889,4.499809670330265
+157,yves saint laurent,L'Homme,EDP,Men,Woody,5.0,noon,4.2,5.83,2.447,3.383,4.605170185988092
+158,bvlgari,Goldea,EDP,Women,Arabian,4.5,seller_other,3.9,6.833333333333333,4.611111111111111,2.2222222222222223,4.499809670330265
+159,calvin klein,CK IN2U,EDT,Men,Citrus,5.0,amlaq,3.9,2.67,1.848,0.8220000000000001,4.605170185988092
+160,gucci,Premiere,EDP,Women,Floral,2.0,amlaq,3.9,7.6,3.694,3.9059999999999997,4.31748811353631
+161,chanel,Allure Homme Sport EDT For,EDP,Men,Citrus,5.0,hadayiq baris,3.8,8.0,3.77,4.23,4.605170185988092
+162,bvlgari,Aqva Marine Pour Homme,EDT,Men,Citrus,4.8,hadayiq baris,3.8,3.31,1.6705,1.6395,4.605170185988092
+163,versace,Dylan Blue,EDT,Men,Arabian,4.2,seller_other,3.5,15.4,7.8,7.6,1.6094379124341003
+164,armani,Si,EDP,Women,Floral,5.0,seller_other,4.2,6.2,3.8710000000000004,2.329,4.605170185988092
+165,bvlgari,Omnia Crystalline,EDT,Women,Woody,5.0,seller_other,4.3,7.753846153846154,3.4615384615384617,4.292307692307692,4.174387269895637
+166,paco rabanne,1 Million Lucky,EDT,Men,Woody,4.5,amlaq,3.9,5.14,2.4685,2.6715,4.605170185988092
+167,versace,Eros,EDT,Men,Arabian,4.9,amlaq,3.9,3.225,1.3765,1.8485,5.298317366548036
+168,calvin klein,Reveal,EDP,Women,Floral,4.4,seller_other,3.6,4.27,2.58,1.69,4.605170185988092
+169,gucci,Bloom Nettare Di Fiori,EDP,Women,Floral,5.0,seller_other,4.4,5.16,1.972,3.188,4.605170185988092
+170,hugo boss,Femme,EDP,Women,Floral,4.8,seller_other,3.7,5.533333333333333,3.675333333333333,1.8579999999999999,4.31748811353631
+171,armani,Si Fiori,EDP,Women,Floral,5.0,seller_other,4.2,8.55,5.319500000000001,3.2305,4.605170185988092
+172,carolina herrera,212 Men Nyc,EDT,Men,Woody,4.3,seller_other,3.9,3.85,2.211,1.639,4.605170185988092
+173,hugo boss,Hugo,EDT,Men,Aromatic,4.2,seller_other,3.7,3.16,2.24,0.92,4.8283137373023015
+174,calvin klein,Euphoria Intense,EDT,Men,Spicy,5.0,hadayiq baris,3.8,0.9995,0.0,0.9995,4.605170185988092
+175,montblanc,Legend Spirit,EDT,Men,Citrus,4.7,hadayiq baris,3.8,3.42,2.02,1.4,4.605170185988092
+176,paco rabanne,Invictus,EDT,Men,Citrus,5.0,seller_other,3.6,4.006666666666667,2.146,1.860666666666667,5.0106352940962555
+177,calvin klein,Escape,EDP,Women,Oriental,5.0,noon,4.2,1.84,0.8905,0.9495,4.605170185988092
+178,montblanc,Explorer,EDP,Men,Woody,5.0,noon,4.2,3.1,1.2209999999999999,1.879,4.605170185988092
+179,gucci,Guilty Pour Homme,EDT,Men,Floral,4.5,noon,4.2,3.7777777777777777,1.5533333333333335,2.2244444444444444,4.499809670330265
+180,montblanc,Legend,EDT,Men,Spicy,4.7,seller_other,3.5,3.42,2.335,1.085,4.605170185988092
+181,givenchy,L'Interdit,EDP,Women,Floral,5.0,seller_other,0.43,8.92,4.36,4.56,3.912023005428146
+182,paco rabanne,Ultraviolet,EDP,Women,Floral,4.8,amlaq,3.9,3.5125,1.654375,1.858125,4.382026634673881
+183,givenchy,Play Intense,EDT,Men,Spicy,4.4,seller_other,3.5,8.76,3.5620000000000003,5.1979999999999995,3.912023005428146
+184,burberry,Brit Sheer,EDT,Women,Fruity,4.8,noon,4.2,2.32,1.0805,1.2395,4.605170185988092
+185,dorall,Eternally Hot,EDT,Women,Woody,4.5,b.a.g,4.2,0.29,0.21,0.08,4.605170185988092
+186,guerlain,Habit Rouge,EDP,Men,Woody,4.5,star.perfume,3.9,4.35,2.1655,2.1845,4.605170185988092
+187,chanel,Gabrielle,EDP,Women,Floral,3.7,al-najm,3.7,11.26,6.67,4.59,4.605170185988092
+188,hugo boss,Ma Vie,EDP,Women,Floral,5.0,seller_other,4.2,2.466666666666667,0.8,1.6666666666666667,4.31748811353631
+189,roberto cavalli,Paradisio Azzuro,EDP,Women,Floral,4.8,amlaq,3.9,6.653333333333333,4.413333333333333,2.24,4.31748811353631
+190,dolce & gabbana,The One,EDT,Men,Spicy,4.5,seller_other,3.6,4.41,3.1005000000000003,1.3094999999999999,4.605170185988092
+191,guerlain,Mon Bloom Of Rose,EDT,Women,Floral,4.0,seller_other,3.9,5.86,3.14,2.72,4.605170185988092
+192,dupont,Passenger,EDP,Women,Fruity,4.9,noon,4.2,3.1,2.0385,1.0615,4.605170185988092
+193,dorall,DC Marine Noir,EDT,Men,Floral,3.4,b.a.g,3.7,0.29,0.193,0.09699999999999999,4.605170185988092
+194,burberry,Body,EDP,Women,Woody,5.0,seller_other,4.2,3.3294117647058825,1.6588235294117648,1.6705882352941177,4.442651256490317
+195,gucci,Bamboo,EDP,Women,Floral,4.8,al-najm,3.7,7.666666666666667,5.1466666666666665,2.52,4.31748811353631
+196,hugo boss,Hugo Man,EDT,Men,Fresh,4.3,amlaq,3.9,3.5866666666666664,2.26,1.3266666666666667,4.31748811353631
+197,burberry,Burberry Body,EDP,Women,Fruity,4.8,seller_other,3.9,5.870588235294117,3.9370588235294113,1.9335294117647057,4.442651256490317
+198,calvin klein,Reveal,EDT,Men,Vanilla,5.0,seller_other,3.6,2.64,1.146,1.494,4.605170185988092
+199,dorall,Super Cobra,EDT,Women,Floral,5.0,b.a.g,3.7,0.29,0.20199999999999999,0.08800000000000001,4.605170185988092
+200,guerlain,Ideal,EDT,Men,Woody,4.0,amlaq,3.9,5.16,2.878,2.282,4.605170185988092
+201,carolina herrera,Bad Boy,EDT,Men,Spicy,5.0,seller_other,4.1,6.52,4.48,2.04,4.605170185988092
+202,versace,Blue Jeans,EDT,Men,Arabian,4.4,noon,4.2,2.2666666666666666,0.81,1.4566666666666668,4.31748811353631
+203,bvlgari,Extreme,EDT,Men,Citrus,5.0,noon,4.2,4.41,2.372,2.0380000000000003,4.605170185988092
+204,lacoste,Pour Femme,EDP,Women,Floral,4.5,noon,4.2,3.577777777777778,2.2105555555555556,1.3672222222222221,4.499809670330265
+205,dupont,Dupont,EDT,Men,Spicy,4.4,noon,4.2,2.21,1.371,0.8390000000000001,4.605170185988092
+206,dorall,Simple,EDT,Women,Floral,4.3,b.a.g,3.7,0.15,0.065,0.085,4.605170185988092
+207,cartier,Declaration D'Un Soir,EDT,Men,Spicy,4.8,amlaq,3.9,3.65,1.52,2.13,4.605170185988092
+208,chanel,Allure Homme Sport EDT For,EDT,Men,Citrus,5.0,hadayiq baris,3.8,8.0,3.77,4.23,4.605170185988092
+209,dolce & gabbana,Intenso,EDP,Men,Spicy,4.5,noon,4.2,3.968,2.3651999999999997,1.6028,4.8283137373023015
+210,dolce & gabbana,L'imperatrice 3,EDT,Women,Floral,4.3,noon,4.2,2.45,0.9669999999999999,1.483,4.605170185988092
+211,dorall,Courageous,EDT,Women,Floral,4.7,b.a.g,3.7,0.22,0.12050000000000001,0.09949999999999999,4.605170185988092
+212,lacoste,L.12.12 Rouge,EDT,Men,Spicy,4.0,hadayiq baris,3.8,1.13,0.0,1.13,4.605170185988092
+213,burberry,The Beat,EDP,Women,Floral,4.3,seller_other,3.7,3.7333333333333334,1.7333333333333334,2.0,4.31748811353631
+214,givenchy,Eau De Moiselle,EDT,Women,Floral,5.0,seller_other,4.2,5.5,3.67,1.83,4.605170185988092
+215,dorall,DC,EDT,Men,Floral,4.0,b.a.g,4.2,0.29,0.19699999999999998,0.09300000000000001,4.605170185988092
+216,carolina herrera,212 Vip,EDT,Men,Vanilla,5.0,al-najm,3.7,3.63,2.03,1.6,4.605170185988092
+217,guerlain,Vetiver,EDT,Men,Aromatic,5.0,seller_other,3.9,4.26,2.52,1.74,4.605170185988092
+218,dior,Sauvage,EDT,Men,Spicy,5.0,seller_other,3.8,4.3,2.2175,2.0825,4.605170185988092
+219,paco rabanne,Lady Million,EDP,Women,Floral,4.7,seller_other,4.2,5.25,3.275,1.975,4.382026634673881
+220,cartier,La Panthere,EDP,Women,Fruity,4.7,noon,4.2,9.266666666666667,6.122,3.1446666666666667,4.31748811353631
+221,paco rabanne,Ultraviolet,EDT,Men,Woody,4.4,star.perfume,3.9,3.53,1.88,1.65,4.605170185988092
+222,guess,Marciano,EDT,Men,Spicy,4.7,amlaq,3.9,1.5,0.693,0.807,4.605170185988092
+223,burberry,My Burberry,EDP,Women,Floral,5.0,amlaq,3.9,7.766666666666667,5.248333333333334,2.5183333333333335,4.499809670330265
+224,lacoste,Joy Of Pink,EDT,Women,Floral,4.4,seller_other,4.3,4.7444444444444445,3.4783333333333335,1.2661111111111112,4.499809670330265
+225,lalique,Le'Parfum,EDP,Women,Oriental,4.4,seller_other,4.12,1.43,0.0,1.43,4.605170185988092
+226,versace,Versace,EDP,Women,Fruity,4.4,noon,4.2,2.16,0.7855000000000001,1.3744999999999998,4.605170185988092
+227,hugo boss,The Scent,EDT,Men,Spicy,3.6,seller_other,3.7,4.26,2.91,1.35,4.605170185988092
+228,carolina herrera,212 Sexy,EDP,Women,Floral,4.7,al-najm,3.7,4.2,2.69,1.51,4.605170185988092
+229,guerlain,L'instant,EDP,Women,Vanilla,4.2,seller_other,3.7,7.22,4.591,2.6289999999999996,4.605170185988092
+230,bvlgari,Rose Essentielle,EDP,Women,Floral,5.0,seller_other,3.9,5.33,2.5810000000000004,2.7489999999999997,4.605170185988092
+231,hugo boss,Boss,EDT,Men,Woody,4.7,seller_other,4.8,3.75,2.7,1.05,4.605170185988092
+232,montblanc,Legend,EDT,Men,Spicy,4.7,seller_other,4.1,3.42,2.335,1.085,4.605170185988092
+233,dolce & gabbana,Intenso,EDP,Men,Spicy,4.5,seller_other,3.9,2.48,0.924,1.556,4.8283137373023015
+234,guess,Marciano,EDP,Women,Citrus,4.4,seller_other,3.5,1.71,0.9420000000000001,0.768,4.605170185988092
+235,roberto cavalli,cavali,EDP,Men,Arabian,4.3,hadayiq baris,3.8,6.653333333333333,5.12,1.5333333333333334,4.31748811353631
+236,roberto cavalli,Florence Amber,EDP,Women,Floral,4.5,seller_other,3.8,6.653333333333333,3.854666666666667,2.7986666666666666,4.31748811353631
+237,carolina herrera,212 VIP,EDP,Women,Arabian,4.4,seller_other,4.2,5.5625,3.1875,2.375,4.382026634673881
+238,dupont,Essence Pure,EDT,Women,Citrus,4.4,noon,4.2,2.15,1.304,0.846,4.605170185988092
+239,lacoste,L.12.12 Blanc,EDT,Men,Woody,5.0,noon,4.2,1.08,0.18049999999999997,0.8995000000000001,4.605170185988092
+240,burberry,My Burberry,EDP,Women,Floral,5.0,noon,4.2,9.88,6.3,3.58,3.912023005428146
+241,dorall,Love You Like Crazy,EDT,Women,Woody,4.5,b.a.g,3.7,0.25,0.1775,0.0725,4.605170185988092
+242,versace,Versace Pour Homme,EDT,Men,Fresh,4.7,seller_other,3.8,4.05,2.4145,1.6355000000000002,4.605170185988092
+243,roberto cavalli,Paradiso,EDP,Women,Woody,4.6,hadayiq baris,3.8,6.666666666666667,4.466666666666667,2.2,4.31748811353631
+244,lalique,Encre Noire,EDT,Men,Woody,4.4,seller_other,3.9,1.65,0.25,1.4,4.605170185988092
+245,calvin klein,Escape,EDT,Men,Woody,4.5,noon,4.2,2.35,1.3875,0.9625,4.605170185988092
+246,dupont,Passenger,EDP,Women,Fruity,4.9,noon,4.2,3.1,2.0385,1.0615,4.605170185988092
+247,calvin klein,Beauty,EDP,Women,Floral,4.8,star.perfume,3.9,1.5,0.4355,1.0645,4.605170185988092
+248,guess,Guess,EDT,Women,Woody,5.0,star.perfume,3.9,1.13,0.09400000000000006,1.036,4.605170185988092
+249,hugo boss,Bottled Intense,EDP,Men,Spicy,4.5,amlaq,3.9,4.26,2.6814999999999998,1.5785,4.605170185988092
+250,rasasi,Royale,EDT,Men,Spicy,4.0,seller_other,3.5,0.5766666666666667,0.0,0.5766666666666667,4.31748811353631
+251,armani,Because It's You by Emporio,EDP,Women,Floral,5.0,seller_other,3.8,4.27,2.7230000000000003,1.547,4.605170185988092
+252,burberry,The Beat,EDP,Women,Floral,4.3,seller_other,4.2,3.7333333333333334,1.7333333333333334,2.0,4.31748811353631
+253,yves saint laurent,La Nuit De L`Homme,EDT,Men,Woody,5.0,seller_other,4.12,5.36,2.22,3.14,4.605170185988092
+254,montblanc,Legend,EDT,Men,Spicy,5.0,noon,4.2,2.2,0.7805000000000001,1.4195,4.605170185988092
+255,hugo boss,Bottled Tonic,EDT,Men,Citrus,4.1,star.perfume,3.9,3.76,2.511,1.249,4.605170185988092
+256,roberto cavalli,Dupont,EDP,Women,Arabian,4.6,star.perfume,3.9,4.8,3.2,1.6,4.31748811353631
+257,burberry,Burberry Body,EDT,Women,Woody,4.0,seller_other,3.8,6.5,2.25,4.25,0.6931471805599453
+258,burberry,My Burberry,EDP,Women,Floral,4.7,seller_other,3.9,7.777777777777778,5.578333333333333,2.1994444444444445,4.499809670330265
+259,lalique,Encre Noire,EDT,Men,Woody,4.5,seller_other,3.7,4.85,3.4805,1.3695,4.605170185988092
+260,yves saint laurent,Rive Gauche Homme,EDT,Men,Aromatic,4.7,seller_other,3.5,7.0,0.0,7.0,4.382026634673881
+261,armani,Eau Pour Homme Reno 2013,EDT,Men,Citrus,4.7,noon,4.2,7.22,3.5,3.72,3.912023005428146
+262,burberry,London,EDP,Women,Floral,4.7,star.perfume,3.9,3.7,1.975,1.725,4.605170185988092
+263,hugo boss,Femme,EDP,Women,Floral,4.8,seller_other,3.9,4.213333333333333,2.3473333333333333,1.8659999999999999,4.31748811353631
+264,calvin klein,Secret Obsession,EDP,Women,Woody,5.0,seller_other,3.9,2.02,0.3805000000000001,1.6395,4.605170185988092
+265,cartier,La Panthere,EDP,Women,Fruity,4.3,noon,4.2,9.24,5.916666666666667,3.3233333333333333,4.31748811353631
+266,dupont,Dupont,EDT,Men,Spicy,4.4,noon,4.2,2.21,1.371,0.8390000000000001,4.605170185988092
+267,burberry,London,EDP,Women,Floral,4.6,star.perfume,3.9,4.82,2.02,2.8,3.912023005428146
+268,hugo boss,Bottled Unlimited,EDT,Men,Vanilla,4.4,al-najm,3.7,3.73,2.47,1.26,4.605170185988092
+269,chanel,Bleu De Chanel,EDT,Men,Citrus,4.8,seller_other,3.7,9.2,6.75,2.45,4.605170185988092
+270,dolce & gabbana,3 L'Imperatrice,EDT,Women,Floral,4.0,noon,4.2,6.4,4.8235,1.5765,4.605170185988092
+271,rasasi,Blue Lady,EDP,Women,Floral,4.5,seller_other,3.8,1.475,0.8,0.675,3.6888794541139363
+272,chanel,Bleu De Chanel,EDP,Men,Woody,4.7,seller_other,3.9,9.3,5.56,3.74,4.605170185988092
+273,guess,Dare,EDT,Men,Spicy,4.3,seller_other,3.6,0.92,0.12099999999999994,0.799,4.605170185988092
+274,mancera,Musky Garden,EDP,Women,Floral,5.0,seller_other,4.3,3.3,0.8195833333333336,2.4804166666666663,4.787491742782046
+275,lacoste,Eau De Lacoste,EDP,Women,Floral,4.6,seller_other,3.8,4.666666666666667,3.1222222222222222,1.5444444444444445,4.499809670330265
+276,burberry,Burberry Body,EDP,Women,Fruity,5.0,noon,4.2,5.870588235294117,4.125882352941177,1.7447058823529413,4.442651256490317
+277,guess,Marciano,EDP,Women,Citrus,4.4,noon,4.2,1.11,0.277,0.833,4.605170185988092
+278,dolce & gabbana,The One Royal Night,EDP,Men,Woody,5.0,amlaq,3.9,6.3,3.3925,2.9075,4.605170185988092
+279,givenchy,Xeryus Rouge,EDT,Men,Woody,4.4,seller_other,3.5,2.59,0.6,1.99,4.605170185988092
+280,mancera,Roses Vanille,EDP,Women,Vanilla,5.0,noon,4.2,4.041666666666667,1.9679166666666668,2.07375,4.787491742782046
+281,dorall,DC,EDT,Men,Floral,4.0,b.a.g,3.7,0.29,0.19699999999999998,0.09300000000000001,4.605170185988092
+282,armani,Code,EDT,Men,Citrus,5.0,seller_other,4.1,6.84,3.3066666666666666,3.533333333333333,4.31748811353631
+283,versace,The Dreamer,EDT,Men,Arabian,4.0,noon,4.2,4.99,3.633,1.357,4.605170185988092
+284,roberto cavalli,Florence,EDP,Women,Floral,4.4,amlaq,3.9,8.1,5.31,2.79,3.912023005428146
+285,dolce & gabbana,Light Blue,EDT,Women,Floral,4.5,amlaq,3.9,4.76,2.5575,2.2025,4.605170185988092
+286,dior,Sauvage,EDP,Men,Arabian,4.0,seller_other,3.7,7.7,4.321000000000001,3.3789999999999996,4.605170185988092
+287,dupont,Passenger,EDT,Men,Spicy,5.0,seller_other,3.7,2.94,1.95,0.99,4.605170185988092
+288,bvlgari,Goldea The Roman Night Absolute,EDP,Women,Floral,4.0,noon,4.2,7.1466666666666665,3.66,3.486666666666667,4.31748811353631
+289,hugo boss,Hugo,EDT,Men,Fresh,4.5,seller_other,4.2,3.16,2.368,0.792,4.8283137373023015
+290,bvlgari,Petits Et Mamans,EDT,Women,Floral,4.8,noon,4.2,2.54,0.6005000000000001,1.9394999999999998,4.605170185988092
+291,dorall,Eternally Hot,EDT,Women,Woody,4.5,b.a.g,3.7,0.29,0.21,0.08,4.605170185988092
+292,guess,By Marciano,EDP,Women,Floral,5.0,seller_other,3.8,1.28,0.18049999999999997,1.0995,4.605170185988092
+293,lalique,Encre Noire,EDT,Men,Woody,4.5,seller_other,4.2,4.85,3.5005,1.3495,4.605170185988092
+294,armani,Si Passione,EDP,Women,Floral,4.8,seller_other,3.9,6.3,3.835,2.465,4.605170185988092
+295,cartier,Declaration Essence,EDT,Men,Citrus,4.5,noon,4.2,4.78,3.0439999999999996,1.736,4.605170185988092
+296,givenchy,Organza,EDP,Women,Arabian,4.8,noon,4.2,5.5,2.9835000000000003,2.5165,4.605170185988092
+297,roberto cavalli,Uomo,EDT,Men,Floral,4.6,noon,4.2,4.52,3.26,1.26,4.605170185988092
+298,montblanc,Mont Blanc Legend,EDT,Men,Floral,4.8,al-najm,3.7,2.2,0.8,1.4,4.605170185988092
+299,gucci,Flora,EDT,Women,Citrus,4.5,amlaq,3.9,5.5,1.9039999999999997,3.596,3.912023005428146
+300,hugo boss,Just Different,EDT,Men,Spicy,5.0,seller_other,3.6,2.816,1.662,1.154,4.8283137373023015
+301,roberto cavalli,Uomo,EDT,Men,Floral,4.6,noon,3.6,4.52,3.1705,1.3495,4.605170185988092
+302,dorall,Classic Black,EDT,Men,Fresh,4.0,seller_other,3.6,0.09,0.001999999999999993,0.08800000000000001,4.605170185988092
+303,calvin klein,Beauty,EDP,Women,Floral,5.0,star.perfume,3.9,3.8,2.65,1.15,4.605170185988092
+304,montblanc,Emblem ED,EDT,Men,Spicy,4.8,star.perfume,3.9,4.4799999999999995,0.0,4.4799999999999995,1.6094379124341003
+305,carolina herrera,212 Sexy,EDP,Women,Floral,4.7,al-najm,3.7,4.2,2.69,1.51,4.605170185988092
+306,burberry,Brit Rhythm,EDT,Men,Woody,4.0,hadayiq baris,3.8,4.0,2.667222222222222,1.3327777777777778,4.499809670330265
+307,hugo boss,Boss,EDT,Men,Woody,4.7,seller_other,4.4,3.75,2.7,1.05,4.605170185988092
+308,dupont,Essence Pure,EDT,Men,Citrus,5.0,seller_other,3.9,2.02,1.158,0.862,4.605170185988092
+309,carolina herrera,212 Vip,EDT,Men,Vanilla,5.0,al-najm,3.7,3.63,2.03,1.6,4.605170185988092
+310,hugo boss,Bottled Night,EDT,Men,Woody,4.5,seller_other,3.7,3.75,2.0455,1.7045,4.605170185988092
+311,carolina herrera,212 S**Y,EDP,Women,Floral,5.0,noon,4.2,4.2,2.3675,1.8325,4.605170185988092
+312,montblanc,Lady Emblem,EDP,Women,Floral,5.0,noon,4.2,5.466666666666667,3.4,2.066666666666667,4.31748811353631
+313,dolce & gabbana,Pour Femme,EDP,Women,Floral,5.0,hadayiq baris,3.8,3.56,1.91,1.65,4.605170185988092
+314,hugo boss,Boss Bottled Man Of Today,EDT,Men,Woody,4.1,seller_other,4.4,4.87,3.1,1.77,4.605170185988092
+315,gucci,Flora,EDT,Women,Citrus,5.0,noon,4.2,6.733333333333333,4.117333333333334,2.6159999999999997,4.31748811353631
+316,dolce & gabbana,The One,EDT,Men,Spicy,4.3,noon,4.2,3.5,1.604,1.896,4.605170185988092
+317,calvin klein,Beauty,EDP,Women,Floral,5.0,star.perfume,4.2,1.45,0.35,1.1,4.605170185988092
+318,carolina herrera,Good Girl,EDP,Women,Arabian,4.6,star.perfume,3.9,9.6,4.75,4.85,3.912023005428146
+319,versace,Versace Pour Homme,EDT,Men,Fresh,4.7,seller_other,3.6,4.05,2.4145,1.6355000000000002,4.605170185988092
+320,chanel,Chance Eau Tendre,EDT,Women,Floral,3.5,hadayiq baris,3.8,12.2,9.3185,2.8815,4.605170185988092
+321,carolina herrera,212 Wild Party,EDP,Women,Floral,4.5,seller_other,3.8,2.9118749999999998,0.0,2.9118749999999998,4.382026634673881
+322,hugo boss,Boss Orange,EDT,Women,Woody,5.0,noon,4.2,4.52,3.0173333333333336,1.5026666666666666,4.31748811353631
+323,dolce & gabbana,K,EDT,Men,Woody,4.1,seller_other,3.7,3.38,0.69,2.69,4.605170185988092
+324,mancera,Roses Vanille,EDP,Women,Oriental,4.0,noon,4.2,3.25,1.3416666666666666,1.9083333333333334,4.787491742782046
+325,dorall,Lady Dorall,EDT,Women,Spicy,4.0,seller_other,3.8,0.1475,0.0,0.1475,4.605170185988092
+326,armani,Acqua Di Gio,EDT,Men,Citrus,4.2,hadayiq baris,3.8,4.8,2.844,1.956,4.605170185988092
+327,cartier,Declaration,EDT,Men,Spicy,4.5,seller_other,3.5,4.6,3.5839999999999996,1.016,4.605170185988092
+328,burberry,My Burberry,EDP,Women,Floral,4.7,seller_other,3.7,7.777777777777778,5.578333333333333,2.1994444444444445,4.499809670330265
+329,carolina herrera,212 VIP Rose,EDP,Women,Floral,5.0,seller_other,3.8,5.5625,3.875,1.6875,4.382026634673881
+330,rasasi,Oud Al-Mubakhar,EDP,Men,Arabian,4.0,noon,4.2,0.4,0.09149999999999998,0.3085,4.605170185988092
+331,gucci,Rush,EDT,Women,Floral,5.0,noon,4.2,6.52,3.5886666666666662,2.9313333333333333,4.31748811353631
+332,rasasi,Shuhrah,EDP,Women,Floral,5.0,noon,4.2,1.6,0.8255555555555555,0.7744444444444445,4.499809670330265
+333,burberry,Touch,EDP,Women,Floral,4.0,noon,4.2,3.14,1.5905,1.5494999999999999,4.605170185988092
+334,versace,Eau Fraiche,EDT,Men,Woody,4.4,noon,4.2,3.63,1.849,1.781,4.605170185988092
+335,dupont,Essence Pure,EDT,Men,Woody,4.6,noon,4.2,2.15,1.4065,0.7434999999999999,4.605170185988092
+336,montblanc,Legend,EDT,Men,Spicy,5.0,noon,4.2,2.2,0.7805000000000001,1.4195,4.605170185988092
+337,calvin klein,CK One,EDT,Men,Citrus,4.5,amlaq,3.9,2.24,1.705,0.535,5.298317366548036
+338,cartier,Santos D Concentree,EDT,Men,Spicy,4.5,seller_other,3.6,2.405,0.0,2.405,4.605170185988092
+339,dorall,Green Secret,EDT,Men,Fruity,2.0,b.a.g,3.7,0.27,0.175,0.095,4.605170185988092
+340,dorall,Lancy,EDT,Women,Spicy,4.5,seller_other,3.5,0.27,0.1515,0.1185,4.605170185988092
+341,armani,Code Absolu ED,EDP,Men,Floral,5.0,seller_other,3.8,4.25,0.0,4.25,0.6931471805599453
+342,lacoste,L.12.12 Blanc,EDT,Men,Woody,3.7,hadayiq baris,3.8,2.44,1.56,0.88,4.605170185988092
+343,montblanc,Lady Emblem Elixir,EDP,Women,Woody,5.0,seller_other,4.12,7.44,3.9139999999999997,3.5260000000000002,3.912023005428146
+344,burberry,Body,EDP,Women,Woody,4.8,noon,4.2,2.823529411764706,1.1605882352941177,1.6629411764705881,4.442651256490317
+345,cartier,Declaration Essence,EDT,Men,Citrus,4.5,noon,4.2,4.78,3.0439999999999996,1.736,4.605170185988092
+346,dorall,Pink Hearts,EDT,Women,Floral,4.4,b.a.g,3.9,0.29,0.20850000000000002,0.0815,4.605170185988092
+347,hugo boss,Natural Spray,EDP,Women,Oriental,4.0,seller_other,3.9,7.933333333333334,6.066666666666666,1.8666666666666667,4.31748811353631
+348,gucci,Flora Gardenia,EDT,Women,Citrus,4.5,amlaq,3.9,5.1,2.755,2.345,4.605170185988092
+349,gucci,Flora Gorgeous Gardenia,EDT,Women,Citrus,4.4,amlaq,3.9,5.1,2.832,2.2680000000000002,4.605170185988092
+350,calvin klein,Sheer Beauty Essence,EDT,Women,Floral,4.5,noon,4.2,4.15,2.4705,1.6795,4.605170185988092
+351,lacoste,Challenge,EDT,Men,Citrus,4.8,seller_other,3.9,3.3333333333333335,1.722777777777778,1.6105555555555555,4.499809670330265
+352,versace,The Dreamer,EDT,Men,Arabian,4.0,noon,4.2,4.99,3.633,1.357,4.605170185988092
+353,armani,Si Possione,EDP,Women,Floral,4.7,al-najm,3.7,7.05,4.585,2.465,4.605170185988092
+354,calvin klein,Beauty,EDP,Women,Floral,4.6,amlaq,3.9,3.78,2.6845,1.0955,4.605170185988092
+355,calvin klein,Beauty,EDP,Women,Floral,4.6,amlaq,3.9,3.8,2.62,1.18,4.605170185988092
+356,lacoste,Essential,EDT,Men,Citrus,3.3,amlaq,3.9,2.688,1.4988,1.1892,4.8283137373023015
+357,rasasi,Al Wisam Day,EDP,Men,Oriental,5.0,hadayiq baris,3.8,2.13,1.2819999999999998,0.848,4.605170185988092
+358,rasasi,Shuhrah,EDP,Men,Floral,5.0,seller_other,3.7,0.8661111111111112,0.0,0.8661111111111112,4.499809670330265
+359,gucci,Guilty Black,EDT,Men,Spicy,5.0,noon,4.2,4.722222222222222,2.299444444444444,2.4227777777777777,4.499809670330265
+360,chanel,Bleu De Chanel,EDT,Men,Citrus,4.8,seller_other,4.1,9.2,6.75,2.45,4.605170185988092
+361,dolce & gabbana,Pour Femme,EDP,Women,Floral,5.0,seller_other,3.9,5.66,3.71,1.95,4.605170185988092
+362,dupont,Essence Pure,EDT,Women,Citrus,4.4,noon,4.2,1.17,0.25900000000000006,0.9109999999999999,4.605170185988092
+363,chanel,Bleu De Chanel,EDP,Men,Woody,4.7,seller_other,4.1,9.3,5.56,3.74,4.605170185988092
+364,yves saint laurent,Black Opium,EDP,Women,Vanilla,4.8,noon,4.2,6.888888888888889,2.8372222222222225,4.051666666666667,4.499809670330265
+365,cartier,Baiser Vole,EDP,Women,Floral,4.4,amlaq,3.9,6.4,4.124,2.276,4.605170185988092
+366,guess,Seductive,EDT,Women,Spicy,5.0,noon,4.2,2.36,1.2033333333333334,1.1566666666666667,4.31748811353631
+367,dolce & gabbana,The One,EDT,Men,Spicy,4.3,noon,4.2,3.5,1.604,1.896,4.605170185988092
+368,armani,Si,EDP,Women,Floral,4.7,al-najm,3.7,6.2,3.582,2.6180000000000003,4.605170185988092
+369,burberry,Body Tender,EDT,Women,Floral,5.0,seller_other,4.2,4.3882352941176475,3.0470588235294116,1.3411764705882352,4.442651256490317
+370,calvin klein,Eternity,EDT,Men,Floral,4.5,hadayiq baris,3.8,4.63,3.68,0.95,4.605170185988092
+371,guess,Marciano,EDP,Women,Citrus,4.6,seller_other,3.6,0.95,0.115,0.835,4.605170185988092
+372,rasasi,Oud Al Misk,EDP,Women,Oriental,3.0,seller_other,4.54,0.59,0.0,0.59,4.605170185988092
+373,rasasi,Romance,EDP,Women,Floral,5.0,b.a.g,3.5,1.7555555555555555,0.9333333333333333,0.8222222222222222,3.8066624897703196
+374,lalique,Encre Noire,EDT,Men,Woody,4.5,seller_other,3.6,4.85,3.5005,1.3495,4.605170185988092
+375,lalique,Encre Noire,EDT,Men,Woody,4.5,seller_other,4.1,4.85,3.4805,1.3695,4.605170185988092
+376,lalique,Amethyst Exquise,EDP,Women,Floral,4.4,seller_other,4.12,2.0225,0.0,2.0225,4.605170185988092
+377,montblanc,Explorer,EDP,Men,Woody,5.0,noon,4.2,3.1,1.2209999999999999,1.879,4.605170185988092
+378,versace,Yellow Diamond,EDT,Women,Floral,5.0,noon,4.2,4.722222222222222,2.795,1.9272222222222222,4.499809670330265
+379,yves saint laurent,Black Opium,EDP,Women,Fresh,5.0,al-najm,3.7,1.9833333333333334,0.0,1.9833333333333334,4.499809670330265
+380,chanel,Coco Mademoiselle,EDP,Women,Woody,4.7,seller_other,4.2,10.36,7.607,2.753,4.605170185988092
+381,calvin klein,One Shock,EDT,Women,Floral,4.2,noon,4.2,0.795,0.3635,0.4315,5.298317366548036
+382,roberto cavalli,Uomo,EDT,Men,Floral,4.6,noon,4.2,4.52,3.26,1.26,4.605170185988092
+383,calvin klein,Eternity,EDT,Men,Floral,4.5,seller_other,3.7,2.63,1.5819999999999999,1.048,4.605170185988092
+384,burberry,London,EDP,Women,Floral,5.0,noon,4.2,3.8,2.129,1.671,4.605170185988092
+385,roberto cavalli,Uomo,EDT,Men,Floral,4.6,noon,4.2,4.52,3.1705,1.3495,4.605170185988092
+386,guerlain,L'Homme Ideal,EDT,Men,Floral,5.0,seller_other,3.8,6.5,0.0,6.5,0.0
+387,calvin klein,Sheer Beauty,EDT,Women,Fruity,4.6,amlaq,3.9,3.45,2.4095,1.0405,4.605170185988092
+388,dorall,Golden Blaze,EDP,Women,Musk,4.3,seller_other,3.7,0.11,0.0,0.11,4.605170185988092
+389,rasasi,Emotion,EDP,Women,Woody,4.6,seller_other,3.5,1.58,0.691,0.889,3.912023005428146
+390,hugo boss,Orange EDT Sp,EDT,Men,Floral,4.8,seller_other,4.4,1.99,0.89,1.1,4.605170185988092
+391,bvlgari,Man In Black,EDP,Men,Spicy,4.6,seller_other,4.2,4.85,2.98,1.87,4.605170185988092
+392,versace,Eros,EDP,Women,Citrus,5.0,noon,4.2,3.65,1.399,2.251,4.605170185988092
+393,cartier,Declaration,EDT,Men,Spicy,4.5,seller_other,4.1,4.6,3.5839999999999996,1.016,4.605170185988092
+394,rasasi,Shuhrah,EDP,Women,Floral,5.0,noon,4.2,1.6,0.8255555555555555,0.7744444444444445,4.499809670330265
+395,versace,Eros,EDP,Women,Citrus,4.5,seller_other,3.9,5.1,3.02,2.08,4.605170185988092
+396,versace,Eros,EDP,Women,Citrus,4.6,noon,4.2,5.1,2.7505,2.3495,4.605170185988092
+397,dupont,Essence Pure,EDT,Men,Woody,4.6,noon,4.2,2.15,1.4065,0.7434999999999999,4.605170185988092
+398,dorall,Lancy,EDT,Women,Spicy,4.5,seller_other,3.9,0.27,0.1515,0.1185,4.605170185988092
+399,gucci,Guilty,EDT,Women,Floral,4.8,amlaq,3.9,4.72,1.8673333333333335,2.8526666666666665,4.31748811353631
+400,paco rabanne,One Million,EDT,Men,Woody,4.5,seller_other,3.5,1.595,0.0,1.595,5.298317366548036
+401,versace,Bright Crystal,EDT,Women,Floral,4.5,noon,4.2,12.6,8.32,4.279999999999999,1.6094379124341003
+402,dorall,DC Charged,EDT,Women,Woody,5.0,seller_other,3.8,0.1495,0.0,0.1495,4.605170185988092
+403,hugo boss,Boss The Scent,EDT,Men,Spicy,4.6,seller_other,3.9,4.26,2.93,1.33,4.605170185988092
+404,paco rabanne,Invictus Intense,EDT,Men,Spicy,4.7,seller_other,3.9,1.99,0.0,1.99,4.605170185988092
+405,calvin klein,Beauty,EDP,Women,Floral,4.6,amlaq,3.9,3.78,2.6845,1.0955,4.605170185988092
+406,dorall,Islanders,EDT,Men,Woody,3.4,seller_other,3.7,0.09,0.0,0.09,4.605170185988092
+407,paco rabanne,Black Xs Potion,EDT,Men,Woody,4.3,seller_other,4.12,1.62,0.0,1.62,4.605170185988092
+408,versace,Crystal Noir,EDT,Women,Arabian,4.4,noon,4.2,5.4,2.16,3.2399999999999998,1.6094379124341003
+409,dolce & gabbana,Pour Femme,EDP,Women,Floral,5.0,seller_other,4.1,5.66,3.71,1.95,4.605170185988092
+410,roberto cavalli,Florence,EDP,Women,Floral,4.7,noon,4.2,6.666666666666667,4.600666666666667,2.066,4.31748811353631
+411,versace,Crystal Noir,EDT,Women,Spicy,4.8,noon,4.2,4.966666666666667,2.577777777777778,2.388888888888889,4.499809670330265
+412,dupont,Essence Pure,EDT,Women,Citrus,4.4,noon,4.2,1.17,0.25900000000000006,0.9109999999999999,4.605170185988092
+413,lacoste,Pour Femme,EDP,Women,Floral,4.5,noon,4.2,3.577777777777778,2.2105555555555556,1.3672222222222221,4.499809670330265
+414,carolina herrera,Good Girl,EDP,Women,Arabian,4.8,hadayiq baris,3.8,7.0625,4.398125,2.664375,4.382026634673881
+415,yves saint laurent,Black Opium,EDP,Women,Vanilla,4.8,noon,4.2,6.888888888888889,2.8372222222222225,4.051666666666667,4.499809670330265
+416,dorall,Blue Princess,EDT,Men,Oriental,5.0,seller_other,4.54,0.1185,0.0,0.1185,4.605170185988092
+417,guess,Seductive,EDT,Women,Spicy,5.0,noon,4.2,2.36,1.2033333333333334,1.1566666666666667,4.31748811353631
+418,hugo boss,Boss The Scent,EDP,Women,Fruity,4.6,hadayiq baris,3.8,5.35,3.8,1.55,4.605170185988092
+419,lacoste,EDTTouch Of Pink For Wom,EDT,Women,Citrus,4.8,seller_other,3.7,3.7222222222222223,2.7333333333333334,0.9888888888888889,4.499809670330265
+420,gucci,Guilty Absolute,EDP,Men,Woody,4.1,seller_other,3.8,5.722222222222222,3.1666666666666665,2.5555555555555554,4.499809670330265
+421,versace,Bright Crystal,EDT,Women,Floral,4.8,noon,4.2,4.777777777777778,2.8894444444444445,1.8883333333333332,4.499809670330265
+422,dupont,Passenger,EDT,Men,Spicy,5.0,seller_other,4.12,1.03,0.0,1.03,4.605170185988092
+423,hugo boss,Ma Vie,EDP,Women,Floral,4.7,amlaq,3.9,5.533333333333333,3.699333333333333,1.834,4.31748811353631
+424,givenchy,Xeryus Rouge,EDT,Men,Woody,4.8,noon,4.2,4.55,2.406,2.144,4.605170185988092
+425,chanel,Coco Mademoiselle,EDP,Women,Woody,4.7,seller_other,3.5,10.36,7.607,2.753,4.605170185988092
+426,calvin klein,One Shock,EDT,Women,Floral,4.2,noon,4.2,0.795,0.3635,0.4315,5.298317366548036
+427,mancera,Roses Vanille,EDP,Women,Arabian,5.0,noon,4.2,3.716666666666667,1.6433333333333333,2.0733333333333333,4.787491742782046
+428,paco rabanne,1 Million,EDT,Men,Woody,4.6,al-najm,3.7,3.95,2.23,1.72,4.605170185988092
+429,calvin klein,Sheer Beauty,EDT,Women,Fruity,4.6,amlaq,3.9,3.45,2.4095,1.0405,4.605170185988092
+430,guerlain,L'Instant Magic,EDP,Women,Woody,4.7,seller_other,3.5,7.25,3.03,4.22,4.605170185988092
+431,rasasi,Emotion,EDP,Women,Woody,4.6,seller_other,4.3,1.58,0.691,0.889,3.912023005428146
+432,burberry,Mr. Burberry,EDP,Men,Woody,4.5,noon,4.2,5.15,3.3505000000000003,1.7994999999999999,4.605170185988092
+433,dorall,Oud Maaruf,EDT,Men,Arabian,4.0,b.a.g,4.2,0.29,0.17509999999999998,0.1149,4.605170185988092
+434,burberry,Burberry Body Intense,EDP,Women,Fruity,4.6,noon,4.2,7.25,4.7091666666666665,2.540833333333333,4.0943445622221
+435,dior,Sauvage,EDT,Men,Oriental,4.0,seller_other,3.7,5.32,3.2375,2.0825,4.605170185988092
+436,mancera,Roses Vanille,EDP,Women,Arabian,4.9,amlaq,3.9,3.75,1.375,2.375,4.787491742782046
+437,mancera,Roses Vanille,EDP,Women,Arabian,4.7,noon,4.2,3.75,1.7504166666666667,1.9995833333333333,4.787491742782046
+438,bvlgari,Man In Black,EDP,Men,Spicy,4.6,seller_other,3.6,4.85,2.98,1.87,4.605170185988092
+439,versace,Eros,EDP,Women,Citrus,5.0,noon,4.2,3.65,1.399,2.251,4.605170185988092
+440,versace,Eros,EDP,Women,Citrus,4.5,seller_other,3.6,5.1,3.02,2.08,4.605170185988092
+441,versace,Eros,EDP,Women,Citrus,4.6,noon,4.2,5.1,2.7505,2.3495,4.605170185988092
+442,armani,Si Passione EDP For Wo,EDT,Women,Floral,5.0,seller_other,4.1,6.3,3.9455,2.3545,4.605170185988092
+443,lalique,Encre Noire,EDT,Men,Woody,4.4,seller_other,3.6,1.65,0.25,1.4,4.605170185988092
+444,dior,Sauvage,EDT,Men,Spicy,4.6,seller_other,3.9,4.3,2.2175,2.0825,4.605170185988092
+445,carolina herrera,212 Sexy,EDT,Men,Vanilla,4.2,al-najm,3.7,3.3,2.255,1.045,4.605170185988092
+446,gucci,Rush 2,EDT,Women,Floral,4.4,seller_other,4.1,11.52,4.3,7.22,3.912023005428146
+447,burberry,London,EDP,Women,Floral,4.8,noon,4.2,3.7,2.024,1.676,4.605170185988092
+448,hugo boss,Femme,EDP,Women,Floral,4.8,seller_other,3.6,5.533333333333333,3.675333333333333,1.8579999999999999,4.31748811353631
+449,versace,Eros,EDT,Men,Arabian,4.5,noon,4.2,4.3,2.28,2.02,4.605170185988092
+450,yves saint laurent,Manifesto,EDP,Women,Floral,3.0,seller_other,4.1,8.055555555555555,5.7461111111111105,2.3094444444444444,4.499809670330265
+451,gucci,Bloom,EDP,Women,Floral,4.6,noon,4.2,6.95,3.6935000000000002,3.2565,4.605170185988092
+452,gucci,Guilty,EDT,Women,Floral,4.8,amlaq,3.9,4.72,1.8673333333333335,2.8526666666666665,4.31748811353631
+453,gucci,Bloom,EDP,Women,Floral,4.2,noon,4.2,5.73,2.5715,3.1585,4.605170185988092
+454,versace,Crystal Noir,EDP,Women,Floral,4.4,seller_other,4.2,4.966666666666667,3.0555555555555554,1.9111111111111112,4.499809670330265
+455,hugo boss,Boss The Scent,EDT,Men,Spicy,4.6,seller_other,4.1,4.26,2.93,1.33,4.605170185988092
+456,gucci,Bloom Nettare Di Fiori,EDP,Women,Floral,4.3,noon,4.2,6.3,3.0014999999999996,3.2985,4.605170185988092
+457,givenchy,L'interdit,EDP,Women,Floral,2.3,seller_other,4.2,8.5,6.05625,2.44375,4.382026634673881
+458,lacoste,L.12.12 Blanc,EDT,Men,Woody,3.7,hadayiq baris,3.8,2.44,1.56,0.88,4.605170185988092
+459,lacoste,Eau De lacoste,EDT,Men,Citrus,4.2,noon,4.2,3.47,2.551,0.919,4.605170185988092
+460,guess,Homme,EDT,Men,Spicy,4.4,star.perfume,3.5,2.1,1.12,0.98,4.605170185988092
+461,roberto cavalli,Just Cavalli,EDT,Men,Woody,4.8,noon,4.2,3.966666666666667,2.833888888888889,1.1327777777777779,4.499809670330265
+462,givenchy,Pour Homme,EDT,Men,Spicy,4.7,hadayiq baris,3.8,3.75,2.5715,1.1784999999999999,4.605170185988092
+463,montblanc,Emblem,EDT,Men,Spicy,4.4,noon,4.2,3.63,2.164,1.466,4.605170185988092
+464,burberry,Burberry Body,EDP,Women,Fruity,4.8,seller_other,4.1,5.870588235294117,3.9370588235294113,1.9335294117647057,4.442651256490317
+465,montblanc,Emblem Intense,EDT,Men,Spicy,4.2,noon,4.2,3.95,2.675,1.275,4.605170185988092
+466,montblanc,Emblem,EDT,Men,Spicy,5.0,noon,4.2,3.63,2.1645,1.4655,4.605170185988092
+467,hugo boss,Nuit,EDP,Women,Floral,4.8,amlaq,3.9,5.533333333333333,3.3733333333333335,2.16,4.31748811353631
+468,roberto cavalli,Florence,EDP,Women,Floral,4.7,noon,4.2,6.666666666666667,4.600666666666667,2.066,4.31748811353631
+469,givenchy,L'Interdit EDP For Wo,EDT,Women,Floral,4.9,seller_other,4.1,6.875,4.293125,2.581875,4.382026634673881
+470,dolce & gabbana,3 L'Imperatrice,EDT,Women,Floral,4.6,noon,4.2,3.0,1.4325,1.5675,4.605170185988092
+471,roberto cavalli,Paradiso Assoluto,EDP,Women,Floral,5.0,noon,4.2,6.866666666666666,5.013333333333334,1.8533333333333333,4.31748811353631
+472,roberto cavalli,Paradiso Azzuro,EDP,Women,Fruity,4.7,amlaq,3.9,6.653333333333333,4.32,2.3333333333333335,4.31748811353631
+473,roberto cavalli,Paradiso Azzurro,EDP,Women,Fruity,4.7,seller_other,4.2,6.653333333333333,4.453333333333333,2.2,4.31748811353631
+474,roberto cavalli,Women,EDP,Women,Arabian,5.0,seller_other,3.5,5.733333333333333,4.36,1.3733333333333333,4.31748811353631
+475,guess,Dare,EDT,Women,Citrus,4.9,noon,4.2,1.7,0.95,0.75,4.605170185988092
+476,burberry,For Women EDP Natural Sp,EDP,Women,Fruity,4.8,noon,4.2,3.78,2.2425,1.5375,4.605170185988092
+477,lacoste,L.12.12 Blanc-Pure,EDT,Men,Woody,4.6,noon,4.2,3.47,2.528,0.9420000000000001,4.605170185988092
+478,hugo boss,The Scent,EDP,Women,Fruity,4.5,noon,4.2,5.35,3.8,1.55,4.605170185988092
+479,paco rabanne,Olympéa Intense,EDP,Women,Floral,4.8,hadayiq baris,3.8,6.0625,3.9762500000000003,2.08625,4.382026634673881
+480,dolce & gabbana,3 L'Imperatrice,EDT,Women,Floral,4.6,seller_other,3.7,3.0,0.0,3.0,4.605170185988092
+481,mancera,Red Tobacco,EDP,Men,Woody,4.7,seller_other,3.7,4.916666666666667,2.0833333333333335,2.8333333333333335,4.787491742782046
+482,roberto cavalli,Paradiso Assoluto,EDP,Women,Floral,5.0,seller_other,3.7,6.866666666666666,0.0,6.866666666666666,4.31748811353631
+483,gucci,Guilty Absolute,EDP,Men,Woody,4.1,seller_other,3.5,5.722222222222222,3.1666666666666665,2.5555555555555554,4.499809670330265
+484,versace,Bright Crystal,EDT,Women,Floral,4.8,noon,4.2,4.777777777777778,2.8894444444444445,1.8883333333333332,4.499809670330265
+485,roberto cavalli,Paradiso Azzuro,EDP,Women,Fruity,4.7,seller_other,3.7,6.653333333333333,0.0,6.653333333333333,4.31748811353631
+486,roberto cavalli,Paradiso Azzurro,EDP,Women,Fruity,4.7,seller_other,3.7,6.653333333333333,0.0,6.653333333333333,4.31748811353631
+487,guess,Dare,EDT,Women,Citrus,4.9,noon,3.7,1.7,0.95,0.75,4.605170185988092
+488,burberry,For Women EDP Natural Sp,EDP,Women,Fruity,4.8,seller_other,3.7,3.78,2.2425,1.5375,4.605170185988092
+489,dolce & gabbana,K,EDT,Men,Woody,4.1,seller_other,3.7,3.38,0.69,2.69,4.605170185988092
+490,dolce & gabbana,K,EDT,Men,Aromatic,3.0,seller_other,4.3,0.26,0.11900000000000001,0.141,4.605170185988092
+491,lacoste,L.12.12 Blanc-Pure,EDT,Men,Woody,4.6,seller_other,3.7,3.47,2.528,0.9420000000000001,4.605170185988092
+492,hugo boss,Bottled Unlimited,EDT,Men,Vanilla,4.4,al-najm,3.7,3.73,2.47,1.26,4.605170185988092
+493,armani,Stronger With You,EDT,Men,Vanilla,4.5,hadayiq baris,3.8,4.15,2.45,1.7,4.605170185988092
+494,hugo boss,Ma Vie,EDP,Women,Floral,4.7,amlaq,3.9,5.533333333333333,3.699333333333333,1.834,4.31748811353631
+495,dorall,Pink Hearts,EDT,Women,Floral,4.4,b.a.g,3.7,0.29,0.20850000000000002,0.0815,4.605170185988092
+496,givenchy,Xeryus Rouge,EDT,Men,Woody,4.8,noon,4.2,4.55,2.406,2.144,4.605170185988092
+497,dolce & gabbana,The Only One 2,EDP,Women,Floral,4.3,hadayiq baris,3.8,6.14,4.761,1.379,4.605170185988092
+498,mancera,Roses Vanille,EDP,Women,Arabian,5.0,noon,4.2,3.716666666666667,1.6433333333333333,2.0733333333333333,4.787491742782046
+499,burberry,My Blush,EDP,Women,Arabian,4.6,noon,3.7,8.62,5.0,3.62,3.912023005428146
+500,burberry,My Burberry Blush,EDP,Women,Arabian,4.5,noon,4.2,7.766666666666667,5.545555555555556,2.221111111111111,4.499809670330265
+501,guerlain,L'Instant Magic,EDP,Women,Woody,4.7,seller_other,4.1,7.25,3.03,4.22,4.605170185988092
+502,burberry,Body Mini ED,EDT,Women,Woody,1.0,seller_other,3.5,6.8,2.2,4.6,1.6094379124341003
+503,dorall,Oud Maaruf,EDT,Men,Arabian,4.0,b.a.g,3.7,0.29,0.17509999999999998,0.1149,4.605170185988092
+504,burberry,Burberry Body Intense,EDP,Women,Fruity,4.6,noon,4.2,7.25,4.7091666666666665,2.540833333333333,4.0943445622221
+505,mancera,Roses Vanille,EDP,Women,Arabian,4.9,amlaq,3.9,3.75,1.375,2.375,4.787491742782046
+506,mancera,Roses Vanille,EDP,Women,Arabian,4.7,noon,4.2,3.75,1.7504166666666667,1.9995833333333333,4.787491742782046
+507,armani,Si Passione EDP For Wo,EDP,Women,Floral,5.0,seller_other,4.1,6.3,3.9455,2.3545,4.605170185988092
+508,yves saint laurent,Kouros Silver,EDT,Men,Fruity,4.5,seller_other,3.5,5.4,3.5,1.9,4.605170185988092
+509,dior,Sauvage Perf,EDT,Men,Floral,3.0,seller_other,4.1,6.4,3.136,3.264,4.605170185988092
+510,bvlgari,Aqva Marine Pour Homme,EDT,Men,Citrus,4.8,hadayiq baris,3.8,3.31,1.6705,1.6395,4.605170185988092
+511,dior,Sauvage,EDT,Men,Spicy,4.6,seller_other,3.5,4.3,2.2175,2.0825,4.605170185988092
+512,guess,Marciano,EDT,Men,Spicy,4.7,amlaq,3.9,1.5,0.693,0.807,4.605170185988092
+513,armani,Armani Code,EDT,Men,Citrus,2.0,noon,4.2,4.112,1.8711999999999998,2.2408,4.8283137373023015
+514,carolina herrera,212 Sexy,EDT,Men,Vanilla,4.2,al-najm,3.7,3.3,2.255,1.045,4.605170185988092
+515,bvlgari,Petits Et Mamans,EDT,Women,Floral,4.8,noon,4.2,2.54,0.6005000000000001,1.9394999999999998,4.605170185988092
+516,gucci,Bloom Aqua Di Fiori,EDT,Women,Fruity,4.7,noon,4.2,5.15,2.032,3.1180000000000003,4.605170185988092
+517,gucci,Bloom,EDP,Women,Floral,4.6,noon,4.2,6.95,3.6935000000000002,3.2565,4.605170185988092
+518,versace,Crystal Noir,EDP,Women,Floral,4.4,seller_other,3.7,4.966666666666667,3.0555555555555554,1.9111111111111112,4.499809670330265
+519,gucci,Bloom Nettare Di Fiori,EDP,Women,Floral,4.3,noon,4.2,6.3,3.0014999999999996,3.2985,4.605170185988092
+520,givenchy,L'interdit,EDP,Women,Floral,2.3,seller_other,3.5,8.5,6.05625,2.44375,4.382026634673881
+521,carolina herrera,Good Girl,EDP,Women,Arabian,4.1,hadayiq baris,3.8,7.0625,4.9625,2.1,4.382026634673881
+522,rasasi,Oud Al-Mubakhar,EDP,Men,Arabian,4.0,noon,4.2,0.4,0.09149999999999998,0.3085,4.605170185988092
+523,roberto cavalli,Nero Assoluto,EDP,Women,Arabian,5.0,noon,4.2,3.52,1.7926666666666664,1.7273333333333334,4.31748811353631
+524,roberto cavalli,Nero Assoluto,EDP,Women,Arabian,4.6,noon,4.2,6.866666666666666,5.466666666666667,1.4,4.31748811353631
+525,guess,Homme,EDT,Men,Spicy,4.4,star.perfume,3.9,2.1,1.12,0.98,4.605170185988092
+526,roberto cavalli,Just Cavalli,EDT,Men,Woody,4.8,noon,4.2,3.966666666666667,2.833888888888889,1.1327777777777779,4.499809670330265
+527,hugo boss,Bottled Night,EDT,Men,Woody,4.5,seller_other,3.6,3.44,2.19,1.25,5.298317366548036
+528,montblanc,Emblem,EDT,Men,Spicy,4.4,noon,4.2,3.63,2.164,1.466,4.605170185988092
+529,montblanc,Emblem,EDT,Men,Spicy,5.0,noon,4.2,3.63,2.1645,1.4655,4.605170185988092
+530,hugo boss,Nuit,EDP,Women,Floral,4.8,amlaq,3.9,5.533333333333333,3.3733333333333335,2.16,4.31748811353631
+531,cartier,Pasha Edition Noir,EDT,Men,Oriental,4.6,amlaq,3.9,4.78,2.7944999999999998,1.9855,4.605170185988092
+532,montblanc,Legend Spirit,EDT,Men,Citrus,4.7,hadayiq baris,3.8,3.42,2.02,1.4,4.605170185988092
+533,bvlgari,Petits Et Mamans,EDT,Women,Floral,4.8,seller_other,4.1,3.27,1.2925,1.9775,4.605170185988092
+534,roberto cavalli,Paradiso Assoluto,EDP,Women,Floral,5.0,noon,4.2,6.866666666666666,5.013333333333334,1.8533333333333333,4.31748811353631
+535,roberto cavalli,Paradiso Azzurro,EDP,Women,Fruity,4.7,seller_other,4.3,6.653333333333333,4.453333333333333,2.2,4.31748811353631
+536,guess,Dare,EDT,Women,Citrus,4.9,noon,4.2,1.7,0.95,0.75,4.605170185988092
+537,burberry,For Women EDP Natural Sp,EDT,Women,Fruity,4.8,noon,4.2,3.78,2.2425,1.5375,4.605170185988092
+538,lacoste,L.12.12 Blanc-Pure,EDT,Men,Woody,4.6,noon,4.2,3.47,2.528,0.9420000000000001,4.605170185988092
